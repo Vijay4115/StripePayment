@@ -1,3 +1,4 @@
+//https://stripe.com/docs/payments/accept-a-payment?platform=react-native&ui=payment-sheet
 import React, { useEffect, useState } from 'react'
 import {
   SafeAreaView,
